@@ -3,6 +3,15 @@
 ## Description
 An end-to-end banking analytics pipeline built with Python, MySQL, and Power BI. Ingests and transforms 13.6M+ rows of loan and payment data, automates the full pipeline with logging, and delivers a 3-page interactive Power BI dashboard covering customer profiling, loan performance, and default risk analysis.
 
+## 📋 Requirements
+
+![Python](https://img.shields.io/badge/Python_3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL_8.0+-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![ODBC](https://img.shields.io/badge/MySQL_ODBC_Connector-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI_Desktop-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git LFS](https://img.shields.io/badge/Git_LFS-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ## Tech Stack
 - **Python** — Data ingestion, transformation, pipeline automation
 - **MySQL** — Staging tables, star schema, stored transformations
